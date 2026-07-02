@@ -808,7 +808,7 @@ const vsetkyOtazky =
         "id": 68,
         "kategoria": "zakon_sbs",
         "body": 2,
-        "otazka": "",
+        "otazka": "Rovnošaty a ich súčasti používané pri poskytovaní bezpečnostnej služby nesmú byť zameniteľné s rovnošatami týchto všetkých bezpečnostných zložiek:",
         "moznosti": {
             "a": "Príslušníkov ozbrojených síl Slovenskej republiky, ozbrojených bezpečnostných zborov, Vojenskej polície a pracovníkov iných bezpečnostných služieb.",
             "b": "Príslušníkov ozbrojených síl Slovenskej republiky, ozbrojených bezpečnostných zborov, ozbrojených zborov a pracovníkov pôšt a telekomunikácií.",
